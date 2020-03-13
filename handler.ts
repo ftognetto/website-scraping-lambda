@@ -41,5 +41,6 @@ const corsHeaders = {
   'Access-Control-Allow-Credentials': true,
   'Access-Control-Expose-Headers': 'Authorization',
   'Access-Control-Allow-Headers': 'Origin, X-Requested-With, Content-Type, Accept, Authorization',
-  'Access-Control-Allow-Methods': 'GET, POST, PUT, PATCH, DELETE, OPTIONS, HEAD'
+  'Access-Control-Allow-Methods': 'GET, POST, PUT, PATCH, DELETE, OPTIONS, HEAD',
+  'Content-type': 'application/json; charset=utf-8 '
 };
